@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lUpW06gAUPh9K5HVy7lbXgM8lWe/kMdTFwCDcNh94bGk7kV7gpDzN9zpg3h3vIjQGaD7OXXZ4S1sesfgQyiMfw==",
+  "success": true,
+  "projectFilePath": "C:\\bytegoods\\aspnetcoreapi\\aspnetcoreapi\\aspnetcoreapi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}
