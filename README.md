@@ -1,2 +1,2 @@
 # aspnetcoreapi
-api implementation using best practices in asp.net core with C#
+restfull web api implementation using best practices in asp.net core with C#
